@@ -1,7 +1,5 @@
 #PURPOSE: client-side implementation for client-server communication.
 
-# you need to install pycryptodome using 'pip install pycryptodome'
-
 import socket
 
 #=======================
